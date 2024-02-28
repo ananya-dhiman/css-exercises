@@ -1,0 +1,21 @@
+/* styles.css */
+
+button{
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+  }
+  
+  
+  .b1{
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+
+  }
+ 
+  .b2{
+    color:pink;
+    background-color: black;
+
+  }
+ 
