@@ -1,0 +1,23 @@
+/* styles.css */
+
+p {
+    color: black;
+    background-color: pink;
+    font-family: "Verdana","DejaVu", sans-serif;
+  }
+  
+  .cool{
+    font-size: 24px ;
+  }
+  #id4{
+    background-color: lightgreen;
+    font-weight: bold;
+
+  }
+ 
+  #id2{
+    color:blue;
+    font-size: 30px;
+
+  }
+ 
